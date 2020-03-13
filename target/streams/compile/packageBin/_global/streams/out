@@ -1,0 +1,23 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/knoldus/Desktop/demo/target/scala-2.11/demo_2.11-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/demo/target/scala-2.11/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/demo/target/scala-2.11/classes/com/knoldus[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/demo/target/scala-2.11/classes/com/knoldus/example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/example/LoadData$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/demo/target/scala-2.11/classes/com/knoldus/example/LoadData$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/example/ExceptionHandlerFactory.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/demo/target/scala-2.11/classes/com/knoldus/example/ExceptionHandlerFactory.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/example/ExceptionHandler$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/demo/target/scala-2.11/classes/com/knoldus/example/ExceptionHandler$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/example/LoadData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/demo/target/scala-2.11/classes/com/knoldus/example/LoadData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/example/ExceptionHandlerFactory$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/demo/target/scala-2.11/classes/com/knoldus/example/ExceptionHandlerFactory$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/example/ExceptionHandler.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/demo/target/scala-2.11/classes/com/knoldus/example/ExceptionHandler.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/example/LoadData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/demo/target/scala-2.11/classes/com/knoldus/example/LoadData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

@@ -1,0 +1,5 @@
+id,first_name,last_name,date_of_birth,ethnicity,gender,status,entry_academic_period
+111111,John,Doe,01/2000,Hispanic,M,,Fall 2008
+111112,Jane,Smith,,Hispanic,F,,Fall 2006
+111113,Sarah,Thomas,,Hispanic,M,FTFT,Fall 2006
+111114,Frank,Brown,13/2002,Race/ethnicity unknown,M,FTFT,Fall 2006
